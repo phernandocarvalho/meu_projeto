@@ -22,5 +22,7 @@ git branch -d (nome da branch após -d deleta a branch criada)
 
 git branch (cria uma nova branch mas permanece na main)
 
-git switch -c (cria mais uma branch e já entra na nova)
+git switch -s (cria mais uma branch e já entra na nova)
+
+git switch (troca de branch)
 
