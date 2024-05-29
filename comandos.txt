@@ -1,0 +1,15 @@
+git init (inicia o repositorio)
+
+git config --global user.name Fernando (define usuário)
+
+git config user.email (define e-mail)
+
+git status (verifica status do branch)
+
+git add . (adicionar o arquivo modificado no repositório)
+
+git commit -s "criacao do arquivo aula_git.txt" (adiciona mensagem a alteração feita)
+
+git log (historico de commits)
+
+git config globla (configuração global para a maquina do usuario)
