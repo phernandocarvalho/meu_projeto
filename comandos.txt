@@ -12,4 +12,15 @@ git commit -s "criacao do arquivo aula_git.txt" (adiciona mensagem a alteração
 
 git log (historico de commits)
 
-git config globla (configuração global para a maquina do usuario)
+git config global (configuração global para a maquina do usuario)
+
+Novos comandos
+
+git checkout -b (cria uma nova branch)
+
+git branch -d (nome da branch após -d deleta a branch criada)
+
+git branch (cria uma nova branch mas permanece na main)
+
+git switch -c (cria mais uma branch e já entra na nova)
+
