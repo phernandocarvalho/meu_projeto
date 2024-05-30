@@ -27,6 +27,6 @@ git switch -s (cria mais uma branch e já entra na nova)
 git switch (troca de branch)
 
 conflitos
-git switch (troca de branch)
-git branch (cria uma nova branch mas permanece na main)
-git switch -s (cria mais uma branch e já entra na nova)
+git switch 
+git branch 
+git switch -s 
